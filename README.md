@@ -134,11 +134,11 @@ npm start
 - Frontend Deployment
 
     - Live Demo: The application is hosted on Netlify.
-    - Access it here: 
+    - Access it here: https://manage-candidates.netlify.app/
 
 ## Live Demo
 
-- Demo Video Link : 
+- Demo Video Link : https://drive.google.com/file/d/1W-x3mXGq6VOXclqPf-g5ySPaPyUP-4gD/view?usp=sharing
 
 ## 📌 Author
 
