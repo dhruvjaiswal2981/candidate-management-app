@@ -129,7 +129,7 @@ npm start
 - Backend Deployment
 
     - Live Demo: The application is hosted on Render
-    - Access it here: 
+    - Access it here: https://candidate-management-app.onrender.com/api/candidates
 
 - Frontend Deployment
 
