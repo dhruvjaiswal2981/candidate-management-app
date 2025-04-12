@@ -14,7 +14,7 @@ const App = () => {
   const [showForm, setShowForm] = useState(false);
 
   const fetchCandidates = async () => {
-    const res = await axios.get("http://localhost:5000/api/candidates", {
+    const res = await axios.get("https://candidate-management-app.onrender.com/api/candidates", {
       params: { ...filters, search, page },
     });
     setCandidates(res.data);
